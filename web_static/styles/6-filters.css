@@ -1,4 +1,6 @@
-ckground-color: #fff;
+/* Filters style */
+.filters {
+    background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
     display: inline-block;
